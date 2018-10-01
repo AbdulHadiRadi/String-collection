@@ -1,2 +1,2 @@
 # String-collection
-Implementing a String collection class
+Implementing a String collection class without using Java built-in classes
